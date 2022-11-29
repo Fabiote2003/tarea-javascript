@@ -229,8 +229,15 @@ const lastName = "Lovelace";
 const secondToLastLetterOfLastName = lastName[lastName.length - 2];
 
 //Ejercicio 39
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 
 //Ejercicio 40
-
+const myArray = ["Hola", 245];
 
 
